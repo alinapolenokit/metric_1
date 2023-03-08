@@ -33,7 +33,7 @@ h1 {
 .bg-img {
     width: 1150px;
     height: 500px;
-    background-image: url(resources/fon_1.png);
+    background-image: url (resources/fon_1.png);
     background-repeat: no-repeat;
     background-size: contain;
     position: relative;
