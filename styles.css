@@ -43,13 +43,13 @@ h1 {
     padding: 0;
     margin: 0;
     position: absolute;
-    bottom: 30px;
+    bottom: 40px;
     left: 40px;
     width: 430px;
     font-weight: 400;
     font-size: 20px;
     line-height: 27px;
-    letter-spacing: -0.003em;
+    letter-spacing: -0.03em;
     color: aliceblue;
 }
 
@@ -72,7 +72,7 @@ h2 {
 
  p.text_2 {
     margin-top: 30px;
-    width: 1048px;
+    width: 1115px;
     font-weight: 400;
     font-size: 45px;
     line-height: 61px;
